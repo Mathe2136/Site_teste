@@ -11,8 +11,9 @@ JavaScript — Controle da lógica de alternância de tema
 
 ├── index.html
 
-├─css/
 ├─main.css
+
 ├──app.js
+
 └── README.md
 
