@@ -11,9 +11,9 @@ JavaScript — Controle da lógica de alternância de tema
 
 ├── index.html
 
-├── css/
+├─css/
 
-│       └── main.css
+│   └── main.css
 
 ├── js/
 
