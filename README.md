@@ -12,14 +12,7 @@ JavaScript — Controle da lógica de alternância de tema
 ├── index.html
 
 ├─css/
-
-│   └── main.css
-
-├── js/
-
-│       └── app.js
-
-│ 
-
+├─main.css
+├──app.js
 └── README.md
 
